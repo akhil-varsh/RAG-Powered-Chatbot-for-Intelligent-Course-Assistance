@@ -97,6 +97,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **OCI** for cloud services supporting AI deployment. ☁️
 - **Streamlit** for enabling easy web app creation. 🌟
 
+---
 
 <p align="center">
   Made with ❤️ by Akhil
